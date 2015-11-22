@@ -1,0 +1,19 @@
+{
+  "name": "ghostkernel",
+  "description": "Ukagaka Baseware Ghost Kernel",
+  "dependencies": {
+  },
+  "main": "lib/ghostkernel.js",
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "npm-debug.log",
+    "coverage"
+  ],
+  "author": {
+    "name": "narazaka",
+    "url": "http://narazaka.net/"
+  },
+  "license": "MIT"
+}
